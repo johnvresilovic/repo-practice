@@ -1,0 +1,44 @@
+h1 {
+    text-decoration-line: underline;
+}
+
+h3 {
+    color: crimson;
+}
+
+p {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+li {
+    font-style: oblique;
+}
+
+body {
+    background-color:azure;
+}
+
+#para1 {
+    color: brown;
+    text-decoration: overline;
+    font-weight: 900;
+}
+
+tr {
+    text-align: center;
+}
+
+#main{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 5px;
+    border: solid blue 5px;
+}
+
+#survey{
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 5px;
+    border: dashed green 5px;
+}
